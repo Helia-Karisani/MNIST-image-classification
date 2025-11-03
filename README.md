@@ -55,7 +55,7 @@ with green labels for **correct** and red labels for **incorrect** predictions.
 ---
 
 ## 📄 Files
-- `01_Student_Notebook.ipynb` – main notebook with full code and outputs  
+- `mnist.ipynb` – main notebook with full code and outputs  
 - `README.md` – project description (this file)  
 - `requirements.txt` *(optional)* – package list  
 
