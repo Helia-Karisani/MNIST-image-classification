@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using Feedforward Neural Network (MNIST)
 
-This project implements a **Feedforward Neural Network (FNN)** — also known as a **Multilayer Perceptron (MLP)** — to classify handwritten digits from the **MNIST dataset** using **TensorFlow/Keras**.
+This project implements a **Feedforward Neural Network (FNN)**, also known as a **Multilayer Perceptron (MLP)**, to classify handwritten digits from the **MNIST dataset** using **TensorFlow/Keras**.
 
 ---
 
